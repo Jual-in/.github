@@ -7,13 +7,16 @@ Poverty in Indonesia remains a complex issue, and although progress has been mad
 **Jual.in** is a platform to digitize and connect your SMEs better. We offer you a whole new experience of introducing your products to a wider reach. The platform would offer a beneficial way for both parties in engaging with each other, giving the opportunity to be more exposed to the community.
 
 # 🎯 Our Goals
-
+- Address the challenges faced by SMEs in Indonesia in building and promoting their brands effectively.
+- Raise awareness among people about the presence of SMEs in their surroundings.
+- Bridge the digitalization gap for Indonesian SMEs, helping them embrace and leverage digital tools and technologies.
 
 # 📋 Our Solutions
+A groundbreaking and innovative android-based mobile app revolutionizing the way customers and sellers interact, empowering them to effortlessly browse and sell products. This cutting-edge app serves as a transformative platform, seamlessly connecting and bridging the gap between customers and sellers like never before.
 
 # 👷‍♂️ Our Teams
 | Name                   | Bangkit ID  | Role             | Linkedin Profile                                                        |
-| ---------------------- | ----------  | ---------------- | ----------------------------------------------------------------------- |
+| ---------------------- | :---------: | ---------------- | :---------------------------------------------------------------------: |
 | Fhilipus Mahendra      | M167DKX4197 | ML Engineer      | [Linkedin](https://www.linkedin.com/in/fhlpmah)                         |
 | Satriadi Putra Santika | M151DSX1901 | ML Engineer      | [Linkedin](https://www.linkedin.com/in/spsantika)                       |
 | Habib Husain Amirullah | A255DSX1429 | Android Engineer | [Linkedin](https://www.linkedin.com/in/amirullah13/)                    |
